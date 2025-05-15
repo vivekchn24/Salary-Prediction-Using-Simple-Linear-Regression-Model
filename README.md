@@ -36,4 +36,4 @@
 
 ## **📌 Disclaimer:**
 
--This Machine-Learning-Model-Building project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
+- This Machine-Learning-Model-Building project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
