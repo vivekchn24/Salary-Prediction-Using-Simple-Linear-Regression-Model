@@ -1,6 +1,12 @@
 # Salary-Prediction-Using-Simple-Linear-Regression-Model
 
-This project uses Simple Linear Regression to predict Salary based on Years of Experience using Python and Scikit-learn.
+### This project uses Simple Linear Regression to predict Salary based on Years of Experience using Python and Scikit-learn.
+
+## 📂 Salary-Prediction-Using-Simple-Linear-Regression-Model Folder Contains
+
+- Salary-Prediction-Using-Simple-Linear-Regression-Model_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
+- Salary csv Formatted Data
+- Above ORIGINAL DATASET Download From Kaggle In Official Source 
 
 ## 🔧 Tools & Libraries
 - Python
@@ -17,8 +23,8 @@ This project uses Simple Linear Regression to predict Salary based on Years of E
 ## 🧠 Model
 - Applied Linear Regression using `LinearRegression()` from Scikit-learn
 - Retrieved slope and intercept using :-
-  lr.coef_
-  lr.intercept_
+  - lr.coef_
+  - lr.intercept_
 
   ## **📎 This project does not include business insights. It is intended for practice only.**
 
